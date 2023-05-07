@@ -1,4 +1,4 @@
-# Discussion Questions: Props vs. State
+# Discussion Questions: Props vs. State c
 
 1. What is the difference between _props_ and _state_ in React?
 2. When would you use state instead of props?
